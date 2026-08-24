@@ -1,7 +1,7 @@
 # Wireshark Network Analysis and Attack Simulation Report
 
-**Date:** September 19, 2025
-**Analyst:** Pratham Khairmode
+**Date:** AUGWST 19, 2026
+**Analyst:** Sachin 
 **Objective:** To capture and analyze common network protocols (HTTP, DNS, FTP), identify security vulnerabilities in unencrypted protocols, and simulate and analyze a TCP SYN Flood Denial-of-Service (DoS) attack.
 
 ---
