@@ -1,6 +1,6 @@
 # Report: Basic Firewall Configuration with iptables
 
-**Date:** AUGEST 19, 2026
+**Date:** AUGUST 19, 2026
 **Analyst:** Sachin 
 **Objective:** To configure a basic "default deny" firewall policy using `iptables`, allow specific services, and implement a dynamic rule to detect and block a network port scan.
 
