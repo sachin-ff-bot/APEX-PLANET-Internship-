@@ -1,6 +1,6 @@
 # Wireshark Network Analysis and Attack Simulation Report
 
-**Date:** AUGWST 19, 2026
+**Date:** AUGEST 19, 2026
 **Analyst:** Sachin 
 **Objective:** To capture and analyze common network protocols (HTTP, DNS, FTP), identify security vulnerabilities in unencrypted protocols, and simulate and analyze a TCP SYN Flood Denial-of-Service (DoS) attack.
 
